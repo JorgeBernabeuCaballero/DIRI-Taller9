@@ -1,0 +1,11 @@
+
+    {
+        "app.label.menu" : "Menús",
+        "app.label.dispo" : "Disponibilidad",
+        "app.label.order" : "Pedir Comida",
+        "app.label.title" : "Comida Rápida Online",
+        "app.label.quantity" : "Cantidad",
+        "app.label.makeOrder" : "Enviar Pedido",
+        "app.label.return" : "Volver al Menú",
+        "app.label.choose" : "Elige de nuestro Menu"       
+    }

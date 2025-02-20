@@ -1,0 +1,12 @@
+
+    {
+        "app.label.menu" : "Menus",
+        "app.label.dispo" : "Availability",
+        "app.label.order" : "Order Food",
+        "app.label.title" : "Online Fast Food",
+        "app.label.quantity" : "Quantity",
+        "app.label.makeOrder" : "Send Order",
+        "app.label.return" : "Return to Menu",
+        "app.label.choose" : "Choose from our Menu"       
+    }
+
